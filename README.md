@@ -39,3 +39,4 @@ The project provides the following results for each selected regression model:
 - R-squared value
 
 ## Contributors
+This project were developed by Lisa Tran with the help from Dr. Dan Tulpan.
