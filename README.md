@@ -1,5 +1,3 @@
-# Machine Learning Project
-
 ## Salary Prediction for Tech Positions from Glassdoor.com in the US Using Machine Learning Algorithms
 
 ## Description
