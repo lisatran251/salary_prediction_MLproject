@@ -1,0 +1,317 @@
+Location,Type of ownership,Industry,hourly,employer_provided,company_txt,job_state,age,python_yn,R_yn,spark,aws,excel,job_simp,num_comp,higher education?,min_exp,Revenue (million(s)),min salary exp,max salary exp,jr,senior,min size,avg_salary
+"Albuquerque, NM",Private,Aerospace & Defense,0,0,Tecolote Research,NM,47,1,0,0,0,1,data scientist,0,1,3.0,50.0,53,91,0,0,501,72.0
+"Linthicum, MD",Others,Health Care Services & Hospitals,0,0,University of Maryland Medical System,MD,36,1,0,0,0,0,data scientist,0,1,3.0,2000.0,63,112,0,0,10000,87.5
+"Clearwater, FL",Private,Security Services,0,0,KnowBe4,FL,10,1,0,1,0,1,data scientist,0,1,2.0,100.0,80,90,0,0,501,85.0
+"Richland, WA",Government,Energy,0,0,PNNL,WA,55,1,0,0,0,0,data scientist,3,0,0.0,500.0,56,97,0,0,1001,76.5
+"Dallas, TX",Public,Real Estate,0,0,CyrusOne,TX,20,1,0,0,1,1,data scientist,3,0,2.0,1000.0,71,119,0,0,201,95.0
+"San Jose, CA",Private,Consulting,0,0,Logic20/20,CA,15,1,0,1,1,1,data scientist,0,1,0.0,25.0,86,142,0,0,201,114.0
+"Rochester, NY",Hospital,Health Care Services & Hospitals,0,0,Rochester Regional Health,NY,6,0,0,0,0,0,na,0,1,0.0,500.0,38,84,0,0,10000,61.0
+"New York, NY",Private,Internet,0,0,<intent>,NY,11,1,0,1,0,0,data scientist,2,0,0.0,100.0,120,160,0,0,51,140.0
+"San Jose, CA",Private,Other Retail Stores,0,0,Wish,CA,9,1,0,0,0,0,data scientist,0,0,2.0,1000.0,126,201,0,0,501,163.5
+"Chantilly, VA",Public,Research & Development,0,0,ManTech,VA,52,0,0,0,0,0,data scientist,0,0,0.0,1000.0,64,106,0,0,5001,85.0
+"Plano, TX",Public,"Department, Clothing, & Shoe Stores",0,0,Walmart,TX,58,0,0,0,0,0,data scientist,3,1,5.0,10000.0,106,172,0,0,10000,139.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,1,0,1,0,0,data scientist,3,1,3.0,10000.0,83,144,0,0,10000,113.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Blueprint Medicines,MA,9,0,0,0,0,1,na,3,1,2.0,1.0,67,137,0,0,51,102.0
+"Denver, CO",Nonprofit,Insurance Carriers,0,0,Pinnacol Assurance,CO,105,1,0,0,0,1,data scientist,0,1,0.0,500.0,64,111,0,0,501,87.5
+"Louisville, KY",Nonprofit,Logistics & Supply Chain,0,0,SMC 3,KY,85,1,0,0,0,1,data scientist,0,1,2.0,10.0,63,105,0,0,51,84.0
+"Herndon, VA",Private,Enterprise Software & Network Solutions,0,0,Novetta,VA,8,1,0,0,1,0,data scientist,3,0,0.0,100.0,109,177,0,0,501,143.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Pfizer,MA,171,1,0,0,1,1,data scientist,0,0,1.0,10000.0,63,110,0,0,10000,86.5
+"Hillsboro, OR",Private,Banks & Credit Unions,0,0,First Tech Federal Credit Union,OR,68,1,0,1,1,1,data scientist,0,0,3.0,100.0,75,124,0,0,1001,99.5
+"Worcester, MA",Public,Insurance Carriers,0,0,The Hanover Insurance Group,MA,168,0,0,0,0,1,analyst,0,0,1.0,5000.0,34,61,0,0,5001,47.5
+"Groton, CT",Public,Biotech & Pharmaceuticals,0,0,Pfizer,CT,171,0,0,0,1,1,data scientist,0,1,5.0,10000.0,63,105,0,0,10000,84.0
+"Detroit, MI",Private,Real Estate,0,0,Amrock,MI,23,1,0,0,0,0,data scientist,0,1,0.0,500.0,72,120,0,0,1001,96.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Novartis,MA,24,1,0,0,0,0,data scientist,0,0,0.0,10000.0,86,143,0,0,10000,114.5
+"Sunnyvale, CA",Public,Telecommunications Services,0,0,Juniper Networks,CA,24,1,0,1,0,1,data scientist,0,1,2.0,2000.0,93,149,0,0,5001,121.0
+"Redlands, CA",Private,Computer Hardware & Software,0,0,Esri,CA,51,1,0,1,1,0,data scientist,1,1,2.0,1000.0,82,132,0,0,1001,107.0
+"Woburn, MA",Private,Aerospace & Defense,0,0,Systems & Technology Research,MA,10,1,0,1,0,1,data scientist,0,1,2.0,100.0,83,137,0,0,201,110.0
+"Fremont, CA",Public,Biotech & Pharmaceuticals,0,0,Sartorius,CA,150,1,0,0,0,1,data scientist,0,0,5.0,1000.0,115,180,0,1,5001,147.5
+"Long Beach, NY",Private,Insurance Carriers,0,0,Lancer Insurance,NY,35,1,0,0,0,1,data engineer,0,1,0.0,100.0,74,138,0,0,201,106.0
+"San Francisco, CA",Private,IT Services,0,0,Sauce Labs,CA,12,1,0,0,1,1,analyst,3,0,3.0,50.0,64,112,0,0,201,88.0
+"Allendale, NJ",Public,Consumer Products Manufacturing,0,0,Edgewell Personal Care,NJ,5,0,0,0,1,0,na,3,1,2.0,2000.0,52,113,0,0,5001,82.5
+"Chicago, IL",Public,Real Estate,0,0,Equity Residential,IL,27,1,0,1,0,1,data scientist,3,1,2.0,2000.0,110,150,0,1,1001,130.0
+"Bellevue, WA",Public,IT Services,0,0,Visa Inc.,WA,62,1,0,0,0,1,data scientist,3,0,10.0,10000.0,158,211,0,1,10000,184.5
+"Longmont, CO",Private,Enterprise Software & Network Solutions,0,0,Intrado,CO,34,0,0,0,0,1,analyst,0,1,0.0,2000.0,20,39,0,0,5001,29.5
+"Beavercreek, OH",Private,Aerospace & Defense,0,0,Centauri,OH,21,0,0,0,0,0,na,3,1,0.0,100.0,56,117,0,0,501,86.5
+"Peoria, IL",Public,Industrial Manufacturing,0,0,Caterpillar,IL,95,0,0,0,0,0,data scientist,3,0,0.0,10000.0,63,99,0,0,10000,81.0
+"Boston, MA",Private,Insurance Carriers,0,0,Liberty Mutual Insurance,MA,108,1,0,0,0,0,data scientist,3,0,0.0,10000.0,86,143,0,0,10000,114.5
+"Huntsville, AL",Private,Aerospace & Defense,0,0,"Torch Technologies, Inc.",AL,18,1,0,0,0,1,analyst,0,0,3.0,100.0,41,95,0,0,1001,68.0
+"Armonk, NY",Public,Insurance Agencies & Brokerages,0,0,Swiss Re,NY,157,1,0,0,0,1,data scientist,3,1,2.0,10000.0,86,144,0,0,10000,115.0
+"San Diego, CA",Public,Aerospace & Defense,0,0,Northrop Grumman,CA,81,0,0,0,0,1,data scientist,0,0,2.0,10000.0,80,139,0,0,10000,109.5
+"Albuquerque, NM",Public,Biotech & Pharmaceuticals,0,0,Sartorius,NM,150,1,0,0,0,1,data scientist,0,0,2.0,1000.0,56,95,0,0,5001,75.5
+"New York, NY",Private,Consulting,0,0,USEReady,NY,9,1,0,1,1,0,data scientist,0,0,0.0,10.0,84,146,0,0,201,115.0
+"Palo Alto, CA",Public,Financial Transaction Processing,0,0,Bill.com,CA,14,0,0,0,0,0,data scientist,0,1,5.0,50.0,107,172,0,1,501,139.5
+"Richland, WA",Government,Energy,0,0,Pacific Northwest National Laboratory,WA,55,0,0,0,0,0,data scientist,3,1,0.0,500.0,49,85,0,0,1001,67.0
+"Coraopolis, PA",Public,Sporting Goods Stores,0,0,DICK'S Sporting Goods - Corporate,PA,72,1,0,0,0,0,data scientist,3,1,3.0,5000.0,61,109,0,0,10000,85.0
+"Framingham, MA",Private,Biotech & Pharmaceuticals,0,0,Berg Health,MA,14,1,0,0,0,1,data scientist,0,1,0.0,1.0,88,148,0,0,51,118.0
+"Atlanta, GA",Private,Computer Hardware & Software,0,0,Oversight Systems,GA,17,1,0,0,0,1,data scientist,0,0,3.0,25.0,60,99,0,0,51,79.5
+"Boston, MA",Public,Advertising & Marketing,0,0,C Space,MA,21,1,0,0,0,0,data scientist,4,0,2.0,100.0,41,72,0,0,201,56.5
+"Lake Forest, IL",Public,Wholesale,0,0,Grainger,IL,93,1,0,0,0,1,director,0,1,10.0,10000.0,139,220,0,0,10000,179.5
+"Maryland Heights, MO",Subsidiary,Research & Development,0,0,EAG Laboratories,MO,42,0,0,0,0,1,na,0,0,10.0,50.0,50,102,0,0,501,76.0
+"Charlottesville, VA",Private,IT Services,0,0,The Buffalo Group,VA,10,1,0,1,0,0,data scientist,3,1,9.0,100.0,85,139,0,1,501,112.0
+"Pittsburgh, PA",Private,Mining,0,0,Carmeuse,PA,160,1,0,0,0,0,data scientist,3,1,3.0,1000.0,74,122,0,0,1001,98.0
+"Cambridge, MA",Private,Biotech & Pharmaceuticals,0,0,GNS Healthcare,MA,20,0,0,0,1,0,na,0,1,2.0,10.0,57,118,0,0,51,87.5
+"Chantilly, VA",Private,Aerospace & Defense,0,0,Peraton,VA,3,1,0,0,0,1,data scientist,0,0,5.0,1000.0,83,137,0,0,1001,110.0
+"San Jose, CA",Private,IT Services,0,0,Pactera,CA,25,1,0,0,0,1,data scientist,3,0,0.0,500.0,86,141,0,0,10000,113.5
+"San Francisco, CA",Private,Health Care Services & Hospitals,0,0,Nurx,CA,4,1,0,0,0,0,data scientist,0,0,3.0,1.0,94,154,0,0,51,124.0
+"Harrisburg, PA",Private,Advertising & Marketing,0,0,webfx.com,PA,23,0,0,0,0,1,analyst,0,0,0.0,25.0,37,76,1,0,201,56.5
+"Laurel, MD",Nonprofit,Aerospace & Defense,0,0,Johns Hopkins University Applied Physics Laboratory,MD,78,1,0,0,0,1,data scientist,3,0,4.0,1000.0,100,160,0,0,5001,130.0
+"Chicago, IL",Private,Computer Hardware & Software,0,0,Productive Edge,IL,12,0,0,0,0,1,analyst,3,0,0.0,10.0,55,100,0,0,51,77.5
+"Arlington, VA",Private,Consulting,0,0,Excella Consulting,VA,18,1,0,0,1,1,data engineer,0,0,3.0,50.0,60,114,0,0,201,87.0
+"Tacoma, WA",Private,Wholesale,0,0,Gensco,WA,72,0,0,0,0,1,analyst,0,0,2.0,100.0,39,68,0,0,501,53.5
+"Miami, FL",Private,Enterprise Software & Network Solutions,0,0,goTRG,FL,12,1,0,1,0,1,data scientist,0,0,5.0,100.0,64,107,0,0,501,85.5
+"Huntsville, AL",Private,IT Services,0,0,NMR Consulting,AL,24,0,0,0,0,1,na,0,0,5.0,25.0,31,65,0,0,51,48.0
+"San Francisco, CA",Public,Biotech & Pharmaceuticals,0,0,Nektar Therapeutics,CA,30,0,0,0,0,1,na,3,1,0.0,100.0,117,231,0,1,201,174.0
+"Atlanta, GA",Public,Financial Analytics & Research,0,0,TransUnion,GA,52,1,0,1,0,0,data scientist,0,0,1.0,1000.0,64,106,0,0,5001,85.0
+"Landover, MD",Private,IT Services,0,0,IT Concepts,MD,17,0,0,0,0,0,na,0,0,0.0,10.0,79,134,0,0,51,106.5
+"Patuxent River, MD",Private,IT Services,0,0,Scientific Research Corporation,MD,32,0,0,0,0,1,analyst,0,0,0.0,100.0,52,93,0,0,1001,72.5
+"Suitland, MD",Subsidiary,IT Services,0,0,General Dynamics Information Technology,MD,24,0,0,0,0,0,na,3,1,8.0,10000.0,55,116,0,0,10000,85.5
+"McLean, VA",Nonprofit,Federal Agencies,0,0,MITRE,VA,62,1,0,0,0,1,data scientist,3,0,2.0,1000.0,72,123,0,0,5001,97.5
+"Fort Belvoir, VA",Private,IT Services,0,0,The Buffalo Group,VA,10,1,0,0,0,1,data scientist,3,0,0.0,100.0,74,124,0,0,501,99.0
+"Milwaukee, WI",Private,Insurance Carriers,0,0,DentaQuest,WI,19,0,0,0,0,1,analyst,3,0,2.0,2000.0,40,73,0,0,1001,56.5
+"Charlotte, NC",Private,IT Services,0,0,CapTech,NC,23,1,0,1,0,0,data engineer,3,0,4.0,100.0,68,123,0,0,1001,95.5
+"Southfield, MI",Public,Transportation Equipment Manufacturing,0,0,American Axle & Manufacturing,MI,26,1,0,1,1,1,data scientist,0,1,5.0,5000.0,80,129,0,1,10000,104.5
+"Phoenix, AZ",Private,Enterprise Software & Network Solutions,0,0,Integrate,AZ,10,0,0,0,0,1,analyst,0,0,2.0,25.0,39,71,0,1,201,55.0
+"San Francisco, CA",Private,Computer Hardware & Software,0,0,Demandbase,CA,14,0,0,1,1,0,data scientist,3,0,2.0,100.0,121,193,0,0,201,157.0
+"San Francisco, CA",Public,Computer Hardware & Software,0,0,Autodesk,CA,38,1,0,1,0,0,data engineer,0,0,2.0,2000.0,76,140,0,0,5001,108.0
+"Atlanta, IN",Private,Farm Support Services,0,0,Beck's Hybrids,IN,83,0,0,0,0,0,data scientist,0,0,0.0,50.0,60,101,0,0,501,80.5
+"Minneapolis, MN",Private,Consulting,0,0,Object Partners,MN,24,0,0,1,1,0,data engineer,2,0,0.0,25.0,65,125,0,0,51,95.0
+"Charlotte, NC",Private,Advertising & Marketing,0,0,Red Ventures,NC,20,0,0,1,1,0,data engineer,3,0,0.0,1000.0,95,173,0,1,1001,134.0
+"Cincinnati, OH",Public,TV Broadcast & Cable Networks,0,0,The E.W. Scripps Company,OH,142,1,0,0,0,0,data scientist,0,1,3.0,500.0,80,135,0,0,1001,107.5
+"Chicago, IL",Public,Real Estate,0,0,Equity Residential,IL,27,1,0,1,0,1,data engineer,3,0,2.0,2000.0,80,105,0,0,1001,92.5
+"Baltimore, MD",Private,Research & Development,0,0,Synagro,MD,34,0,0,0,0,1,analyst,0,0,1.0,100.0,43,81,0,0,501,62.0
+"Alabaster, AL",Others,Architectural & Engineering Services,0,0,Alliance Source Testing,AL,20,0,0,0,0,0,na,0,0,0.0,25.0,29,50,0,0,51,39.5
+"Santa Fe Springs, Los Angeles, CA",Private,Industrial Manufacturing,0,0,Accuride International,CA,54,0,0,0,0,1,data scientist,0,1,5.0,100.0,82,133,0,0,1001,107.5
+"Ashburn, VA",Public,IT Services,0,0,Visa Inc.,VA,62,1,0,1,0,0,data scientist,3,1,4.0,10000.0,61,118,0,1,10000,89.5
+"Chicago, IL",Private,Consulting,0,0,Maven Wave Partners,IL,12,1,0,0,1,1,data scientist,0,0,3.0,50.0,60,102,0,0,201,81.0
+"Herndon, VA",Private,Enterprise Software & Network Solutions,0,0,Novetta,VA,8,1,0,0,1,0,data scientist,3,0,2.0,100.0,112,182,0,1,501,147.0
+"Fort Worth, TX",Private,Brokerage Services,0,0,"First Command Financial Services, Inc.",TX,62,1,0,0,0,1,data scientist,3,0,5.0,100.0,64,106,0,0,1001,85.0
+"Valencia, CA",Private,Consumer Products Manufacturing,0,0,Pharmavite,CA,49,0,0,0,0,1,na,2,1,2.0,1000.0,51,112,0,0,1001,81.5
+"Novato, CA",Public,Biotech & Pharmaceuticals,0,0,BioMarin Pharmaceutical,CA,23,0,0,0,0,1,na,3,1,3.0,500.0,113,223,0,0,1001,168.0
+"New York, NY",Private,Consulting,0,0,PA Consulting,NY,77,1,0,1,0,1,data scientist,3,1,2.0,100.0,71,123,0,0,1001,97.0
+"Chicago, IL",Private,Computer Hardware & Software,0,0,Productive Edge,IL,12,0,0,1,0,1,data engineer,3,0,2.0,10.0,80,120,0,0,51,100.0
+"Richland, WA",Government,Energy,0,0,PNNL,WA,55,1,0,0,0,0,data scientist,3,1,0.0,500.0,49,85,0,0,1001,67.0
+"Washington, DC",Private,IT Services,0,0,AVANADE,DC,20,0,0,0,0,0,data engineer,3,1,5.0,2000.0,60,114,0,0,10000,87.0
+"Cincinnati, OH",Private,Advertising & Marketing,0,0,PatientPoint,OH,33,1,0,0,0,1,data scientist,3,1,1.0,100.0,75,125,0,1,201,100.0
+"Chattanooga, TN",Nonprofit,Insurance Carriers,0,0,BlueCross BlueShield of Tennessee,TN,75,0,0,0,0,1,data engineer,0,0,5.0,5000.0,77,136,0,0,5001,106.5
+"Richland, WA",Government,Energy,0,0,PNNL,WA,55,0,0,0,0,0,data scientist,3,1,7.0,500.0,74,123,0,1,1001,98.5
+"Clearwater, FL",Private,Security Services,0,0,KnowBe4,FL,10,1,0,0,0,1,analyst,0,1,0.0,100.0,44,78,0,1,501,61.0
+"Ewing, NJ",Public,Consumer Products Manufacturing,0,0,Church & Dwight,NJ,174,1,0,0,0,1,manager,0,1,5.0,2000.0,85,134,0,0,1001,109.5
+"Boston, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,1,0,1,1,0,data scientist,0,0,7.0,10000.0,124,204,0,1,5001,164.0
+"South San Francisco, CA",Subsidiary,Biotech & Pharmaceuticals,0,0,Genentech,CA,44,1,0,1,0,1,data scientist,0,1,2.0,10000.0,131,207,0,1,10000,169.0
+"Cupertino, CA",Public,Telecommunications Services,0,0,Juniper Networks,CA,24,1,0,1,1,1,data scientist,0,1,3.0,2000.0,110,174,0,1,5001,142.0
+"Boston, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,0,0,0,0,1,na,3,1,0.0,10000.0,52,101,0,0,10000,76.5
+"Frederick, MD",Private,Insurance Carriers,0,0,Legal & General America,MD,39,1,0,0,0,1,data scientist,0,1,5.0,500.0,81,133,0,0,501,107.0
+"San Jose, CA",Public,Computer Hardware & Software,0,0,Western Digital,CA,50,1,0,0,1,0,data scientist,2,1,0.0,10000.0,132,211,0,0,10000,171.5
+"Marlborough, MA",Private,Biotech & Pharmaceuticals,0,0,Sunovion,MA,10,1,0,0,0,1,na,3,1,3.0,1000.0,100,190,0,1,1001,145.0
+"Herndon, VA",Nonprofit,Colleges & Universities,0,0,National Student Clearinghouse,VA,27,1,0,0,0,1,analyst,3,1,5.0,25.0,43,80,0,1,201,61.5
+"Madison, WI",Government,Investment Banking & Asset Management,0,0,State of Wisconsin Investment Board,WI,69,1,0,0,0,0,data scientist,0,0,5.0,50.0,91,149,0,0,51,120.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Rubius Therapeutics,MA,7,0,0,0,0,0,na,0,1,0.0,100.0,42,82,0,0,201,62.0
+"San Francisco, CA",Public,Computer Hardware & Software,0,0,Autodesk,CA,38,1,0,1,0,0,data scientist,0,1,0.0,2000.0,116,185,0,1,5001,150.5
+"Winter Park, FL",Public,Advertising & Marketing,0,0,IZEA,FL,14,1,0,1,1,1,data engineer,2,0,3.0,25.0,48,95,0,0,51,71.5
+"San Rafael, CA",Subsidiary,"Department, Clothing, & Shoe Stores",0,0,Vionic Group,CA,14,0,0,0,0,1,analyst,0,0,1.0,100.0,31,72,0,0,51,51.5
+"San Diego, CA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,CA,239,0,0,0,0,1,na,3,1,5.0,10000.0,105,198,0,1,10000,151.5
+"Boston, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,0,0,0,0,1,na,3,1,3.0,10000.0,98,182,0,1,10000,140.0
+"Woodbridge, NJ",Private,Insurance Carriers,0,0,Plymouth Rock Assurance,NJ,38,0,0,0,0,1,data scientist,2,1,3.0,10.0,73,124,0,1,1001,98.5
+"Lewes, DE",Nonprofit,Health Care Services & Hospitals,1,0,Beebe Healthcare,DE,85,0,0,0,0,0,na,0,0,0.0,100.0,21,34,0,0,1001,27.5
+"Boston, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,0,0,0,0,0,na,3,1,10.0,10000.0,117,206,0,1,10000,161.5
+"New York, NY",Public,Insurance Carriers,0,0,Argo Group US,NY,72,1,0,1,1,0,data scientist,0,0,3.0,1000.0,111,183,0,1,1001,147.0
+"Springfield, MO",Private,Energy,0,0,Associated Electric Cooperative,MO,59,0,0,0,0,1,analyst,0,1,2.0,1000.0,44,78,0,0,501,61.0
+"Phoenix, AZ",Public,Lending,0,0,PennyMac,AZ,12,1,0,0,0,1,na,3,0,5.0,500.0,83,166,0,0,1001,124.5
+"Burbank, CA",Private,Financial Analytics & Research,0,0,Zest AI,CA,11,1,0,0,0,0,data scientist,0,1,0.0,50.0,114,182,0,1,51,148.0
+"Huntsville, AL",Private,Aerospace & Defense,0,0,DECISIVE ANALYTICS Corporation,AL,24,1,0,0,0,1,analyst,2,0,0.0,25.0,42,76,0,0,51,59.0
+"Worcester, MA",Public,Insurance Carriers,0,0,The Hanover Insurance Group,MA,168,1,0,0,0,1,data scientist,0,1,5.0,5000.0,114,179,0,1,5001,146.5
+"Salt Lake City, UT",Private,Biotech & Pharmaceuticals,0,0,Recursion Pharmaceuticals,UT,7,1,0,0,1,0,data scientist,0,0,3.0,1.0,108,173,0,1,51,140.5
+"Rochester, NY",Hospital,Health Care Services & Hospitals,0,0,Rochester Regional Health,NY,6,0,0,0,0,0,na,0,1,2.0,500.0,54,115,0,1,10000,84.5
+"Annapolis Junction, MD",Private,Computer Hardware & Software,0,0,ClearEdge,MD,18,0,0,0,0,1,na,0,1,0.0,5.0,60,127,0,0,51,93.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Rubius Therapeutics,MA,7,0,0,0,0,0,na,0,0,2.0,100.0,90,179,0,1,201,134.5
+"San Francisco, CA",Private,Internet,0,0,Tapjoy,CA,13,1,0,1,0,0,mle,2,0,0.0,10.0,138,224,0,0,201,181.0
+"Highland, CA",Private,Gambling,0,0,San Manuel Casino,CA,34,0,0,0,0,1,analyst,0,1,2.0,100.0,35,62,0,0,1001,48.5
+"Burleson, TX",Hospital,Health Care Services & Hospitals,1,0,Texas Health Huguley Hospital,TX,43,0,0,0,1,0,na,0,0,1.0,50.0,18,25,0,0,1001,21.5
+"Scotts Valley, CA",Nonprofit,Health Care Services & Hospitals,0,0,Central California Alliance for Health,CA,24,0,0,0,0,0,manager,0,0,7.0,500.0,42,86,0,0,501,64.0
+"Knoxville, TN",Private,Gas Stations,0,0,Pilot Flying J Travel Centers LLC,TN,62,1,0,0,0,0,data engineer,3,0,2.0,10000.0,69,127,0,1,10000,98.0
+"Millville, DE",Nonprofit,Health Care Services & Hospitals,1,0,Beebe Healthcare,DE,85,0,0,0,0,0,na,0,0,0.0,100.0,21,34,0,0,1001,27.5
+"Rockville, MD",Private,Biotech & Pharmaceuticals,0,0,Advanced BioScience Laboratories,MD,59,0,0,0,0,1,na,0,1,3.0,25.0,49,113,0,0,201,81.0
+"Chicago, IL",Public,Transportation Management,0,0,Echo Global Logistics,IL,15,0,0,0,0,0,data engineer,3,0,1.0,2000.0,75,140,0,1,1001,107.5
+"Herndon, VA",Public,Aerospace & Defense,0,0,Lockheed Martin,VA,25,1,0,1,0,1,data scientist,3,0,5.0,10000.0,66,112,0,0,10000,89.0
+"Sheboygan, WI",Private,Insurance Carriers,0,0,Acuity Insurance,WI,95,0,0,0,0,0,data scientist,0,1,5.0,1000.0,76,125,0,1,1001,100.5
+"New York, NY",Private,Travel Agencies,0,0,Fareportal,NY,18,0,0,0,0,1,analyst,3,0,0.0,2000.0,44,86,0,0,1001,65.0
+"Chicago, IL",Private,Advertising & Marketing,0,0,Spectrum Communications and Consulting,IL,28,0,0,0,0,0,data scientist,0,0,0.0,10.0,64,111,0,0,51,87.5
+"San Mateo, CA",Public,Video Games,0,0,NCSOFT,CA,23,1,1,0,0,1,analyst,3,0,0.0,10000.0,65,120,0,0,1001,92.5
+"McLean, VA",Nonprofit,Federal Agencies,0,0,MITRE,VA,62,1,0,1,0,0,data scientist,3,0,1.0,1000.0,60,103,0,0,5001,81.5
+"Meridian, ID",Private,Computer Hardware & Software,0,0,DRB Systems,ID,36,1,1,0,0,1,analyst,0,0,1.0,50.0,34,64,0,0,201,49.0
+"Indianapolis, IN",Private,IT Services,0,0,U.Group,IN,1,0,0,0,1,0,data scientist,0,0,5.0,25.0,66,111,0,0,201,88.5
+"New York, NY",Private,Consulting,0,0,Systems Evolution Inc.,NY,28,1,0,0,0,1,na,0,0,8.0,50.0,91,138,0,0,201,114.5
+"Nashville, TN",Public,Internet,0,0,Eventbrite,TN,14,1,0,1,1,1,data engineer,3,0,5.0,100.0,62,114,0,0,1001,88.0
+"Chicago, IL",Private,Internet,0,0,Centro,IL,19,1,0,1,1,0,data engineer,3,0,0.0,100.0,71,129,0,0,501,100.0
+"Portland, OR",Public,Advertising & Marketing,0,0,comScore,OR,21,1,0,1,0,0,data scientist,3,0,2.0,1000.0,74,119,0,0,1001,96.5
+"Port Washington, NY",Private,Research & Development,0,0,NPD,NY,54,0,0,0,0,1,data scientist,0,0,6.0,100.0,15,16,0,0,1001,15.5
+"South San Francisco, CA",Subsidiary,Biotech & Pharmaceuticals,0,0,Genentech,CA,44,0,0,0,0,1,data scientist,0,1,4.0,10000.0,127,199,0,0,10000,163.0
+"Austin, TX",Private,Consulting,0,0,Pro-Sphere Tek,TX,14,1,0,0,1,0,data engineer,0,1,5.0,50.0,67,119,0,0,201,93.0
+"Cincinnati, OH",Private,Insurance Agencies & Brokerages,0,0,Ameritas Life Insurance Corp,OH,133,1,0,0,0,0,data scientist,0,0,4.0,2000.0,72,117,0,0,1001,94.5
+"Raleigh, NC",Public,Insurance Carriers,0,0,Genworth,NC,16,1,0,1,1,1,data scientist,3,1,4.0,5000.0,78,126,0,0,1001,102.0
+"Oakland, CA",Private,Insurance Carriers,0,0,Trace Data,CA,20,1,0,1,0,0,data scientist,0,1,0.0,10.0,83,133,0,0,51,108.0
+"Boise, ID",Private,Investment Banking & Asset Management,0,0,Clearwater Analytics,ID,16,0,0,0,0,1,analyst,0,0,0.0,50.0,45,82,0,0,501,63.5
+"Oak Ridge, TN",Public,Aerospace & Defense,0,0,BWX Technologies,TN,170,1,0,0,0,0,data scientist,0,1,3.0,500.0,70,122,0,0,5001,96.0
+"Agoura Hills, CA",Public,Lending,0,0,PennyMac,CA,12,1,0,0,1,1,data engineer,3,0,0.0,500.0,70,132,0,0,1001,101.0
+"Pella, IA",Private,Industrial Manufacturing,0,0,Vermeer,IA,72,0,0,0,0,1,data engineer,3,0,0.0,1000.0,54,101,0,0,1001,77.5
+"Boston, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,0,0,0,0,0,na,3,1,6.0,10000.0,117,206,0,1,10000,161.5
+"Red Bank, NJ",Public,Banks & Credit Unions,0,0,OceanFirst Financial,NJ,118,0,0,0,1,0,analyst,0,0,4.0,5000.0,42,74,0,0,501,58.0
+"New York, NY",Public,Auctions & Galleries,0,0,Sotheby's,NY,276,1,0,0,0,0,data scientist,0,0,0.0,500.0,95,161,0,0,1001,128.0
+"Washington, DC",Public,Biotech & Pharmaceuticals,0,0,Vanda Pharmaceuticals,DC,17,1,0,0,0,1,data scientist,0,1,2.0,100.0,76,126,0,0,201,101.0
+"Fort Belvoir, VA",Private,Enterprise Software & Network Solutions,0,0,Novetta,VA,8,1,0,0,1,0,data scientist,3,0,0.0,100.0,108,176,0,1,501,142.0
+"San Diego, CA",Private,Consulting,0,0,Opinion Dynamics,CA,33,1,0,0,0,0,na,0,0,0.0,10.0,37,68,0,0,51,52.5
+"Houston, TX",Private,IT Services,0,0,Applied Information Sciences,TX,38,0,0,1,0,0,data engineer,0,0,6.0,50.0,52,99,0,0,501,75.5
+"Armonk, NY",Public,Insurance Agencies & Brokerages,0,0,Swiss Re,NY,157,1,0,0,0,1,data scientist,3,1,5.0,10000.0,105,173,0,1,10000,139.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,1,0,1,1,1,data engineer,3,0,2.0,10000.0,71,134,0,0,10000,102.5
+"Columbia, SC",Private,Architectural & Engineering Services,0,0,WK Dickson,SC,91,0,0,0,0,0,na,3,0,4.0,25.0,39,82,0,0,201,60.5
+"South San Francisco, CA",Subsidiary,Biotech & Pharmaceuticals,0,0,Genentech,CA,44,0,0,0,0,1,na,0,0,0.0,10000.0,88,162,0,0,10000,125.0
+"Springfield, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,1,0,0,0,0,analyst,0,0,7.0,10000.0,60,102,0,1,5001,81.0
+"Washington, DC",Subsidiary,IT Services,0,0,General Dynamics Information Technology,DC,24,0,0,0,0,1,analyst,3,1,5.0,10000.0,55,99,0,0,10000,77.0
+"Herndon, VA",Public,Research & Development,0,0,ManTech,VA,52,0,0,0,0,0,data engineer,0,0,5.0,1000.0,67,117,0,0,5001,92.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Novartis,MA,24,0,0,0,0,0,data scientist,0,0,0.0,10000.0,92,150,0,1,10000,121.0
+"San Francisco, CA",Public,Computer Hardware & Software,0,0,Autodesk,CA,38,1,0,1,0,1,data engineer,0,0,5.0,2000.0,116,209,0,1,5001,162.5
+"San Antonio, TX",Nonprofit,Research & Development,0,0,Southwest Research Institute,TX,73,0,0,0,0,0,na,3,0,2.0,500.0,38,82,0,0,1001,60.0
+"Dallas, TX",Subsidiary,Advertising & Marketing,0,0,The Integer Group,TX,27,0,0,0,0,0,data scientist,3,0,4.0,50.0,84,136,0,1,501,110.0
+"Portsmouth, VA",Public,Research & Development,0,0,ManTech,VA,52,0,0,0,0,0,analyst,0,0,0.0,1000.0,52,89,0,0,5001,70.5
+"Richland, WA",Government,Energy,0,0,PNNL,WA,55,1,0,0,0,0,data scientist,3,1,5.0,500.0,56,97,0,0,1001,76.5
+"Springfield, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,1,0,1,0,1,data engineer,0,0,4.0,10000.0,65,119,0,0,5001,92.0
+"Arlington, VA",Private,Computer Hardware & Software,0,0,Esri,VA,51,1,0,0,0,0,na,1,0,2.0,1000.0,63,101,0,0,1001,82.0
+"West Palm Beach, FL",Public,Telecommunications Manufacturing,0,0,SV Microwave,FL,29,0,0,0,0,0,analyst,0,1,1.0,50.0,31,57,0,0,201,44.0
+"Alexandria, VA",Private,IT Services,0,0,CALIBRE Systems,VA,31,0,0,0,0,1,analyst,3,0,5.0,100.0,50,92,0,0,501,71.0
+"Boston, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,0,0,0,0,0,director,0,0,0.0,10000.0,67,135,0,0,5001,101.0
+"Chicago, IL",Public,Computer Hardware & Software,0,0,Motorola Solutions,IL,92,1,0,1,0,0,analyst,3,1,2.0,5000.0,42,80,0,0,10000,61.0
+"Owensboro, KY",Private,Consumer Products Manufacturing,0,0,Reynolds American,KY,145,0,0,0,0,0,na,0,0,4.0,10000.0,68,139,0,0,5001,103.5
+"Springfield, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,0,0,0,0,1,manager,0,1,10.0,10000.0,34,92,0,0,5001,63.0
+"Hartford, CT",Public,IT Services,0,0,Infosys,CT,39,0,0,0,0,1,na,3,0,5.0,10000.0,54,71,0,0,10000,62.5
+"Marlborough, MA",Private,Biotech & Pharmaceuticals,0,0,Sunovion,MA,10,1,0,0,0,1,na,3,1,3.0,1000.0,109,200,0,1,1001,154.5
+"Lenexa, KS",Public,Stock Exchanges,0,0,Cboe Global Markets,KS,47,1,0,0,0,1,mle,0,0,7.0,500.0,61,113,0,0,501,87.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Takeda Pharmaceuticals,MA,239,0,0,1,1,1,data engineer,3,1,5.0,10000.0,113,196,0,0,10000,154.5
+"Chicago, IL",Private,Consulting,0,0,Maven Wave Partners,IL,12,1,0,0,1,1,data scientist,0,0,7.0,50.0,97,160,0,1,201,128.5
+"Vail, CO",Hospital,Health Care Services & Hospitals,1,0,Vail Health,CO,54,0,0,0,0,0,na,0,0,3.0,100.0,24,39,0,0,501,31.5
+"New York, NY",Public,Biotech & Pharmaceuticals,0,0,AstraZeneca,NY,107,1,0,0,0,0,data scientist,3,1,2.0,10000.0,102,172,0,1,10000,137.0
+"Denver, CO",Nonprofit,Insurance Carriers,0,0,Pinnacol Assurance,CO,105,1,0,0,1,0,data engineer,0,0,0.0,500.0,74,124,0,0,501,99.0
+"Natick, MA",Private,Computer Hardware & Software,0,0,MathWorks,MA,36,1,0,0,0,0,data scientist,0,0,5.0,1000.0,108,171,0,1,1001,139.5
+"Rockville, MD",Private,IT Services,0,0,MetroStar Systems,MD,21,0,0,0,1,0,data engineer,0,1,2.0,25.0,76,142,0,0,201,109.0
+"Winston-Salem, NC",Private,Consumer Products Manufacturing,0,0,Reynolds American,NC,145,0,0,0,0,1,na,0,0,5.0,10000.0,65,134,0,0,5001,99.5
+"Richfield, OH",Private,Insurance Carriers,0,0,National Interstate,OH,31,0,0,0,0,0,analyst,0,0,0.0,500.0,32,59,0,0,501,45.5
+"Indianapolis, IN",Private,Consulting,0,0,Moser Consulting,IN,24,1,0,1,1,0,data engineer,0,0,0.0,25.0,87,158,0,1,51,122.5
+"Chicago, IL",Public,Financial Analytics & Research,0,0,TransUnion,IL,52,1,0,0,0,1,data scientist,0,0,7.0,1000.0,107,173,0,1,5001,140.0
+"Hampton, VA",Nonprofit,Federal Agencies,0,0,MITRE,VA,62,0,0,0,0,0,na,3,1,0.0,1000.0,56,99,0,1,5001,77.5
+"Winston-Salem, NC",Private,Consumer Products Manufacturing,0,0,Reynolds American,NC,145,0,0,0,0,1,na,0,1,7.0,10000.0,80,155,0,1,5001,117.5
+"San Diego, CA",Private,Biotech & Pharmaceuticals,0,0,Crown Bioscience,CA,14,0,0,0,0,0,na,0,1,3.0,50.0,43,98,0,0,501,70.5
+"San Francisco, CA",Private,Computer Hardware & Software,0,0,HOVER,CA,9,0,0,0,0,1,manager,0,0,5.0,25.0,45,78,0,0,51,61.5
+"Quincy, MA",Private,Insurance Carriers,0,0,Arbella Insurance,MA,32,0,0,1,0,1,data engineer,0,0,3.0,100.0,61,119,0,0,1001,90.0
+"Boston, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,1,0,1,1,1,na,0,0,7.0,10000.0,101,158,0,0,5001,129.5
+"New York, NY",Public,Biotech & Pharmaceuticals,0,0,Pfizer,NY,171,0,0,0,1,1,data scientist,0,1,1.0,10000.0,125,210,0,1,10000,167.5
+"Green Bay, WI",Public,Banks & Credit Unions,0,0,Associated Banc-Corp,WI,150,0,0,0,1,1,analyst,3,0,2.0,1000.0,43,77,0,0,1001,60.0
+"Burbank, CA",Private,Financial Analytics & Research,0,0,Zest AI,CA,11,1,0,0,0,1,data scientist,0,1,5.0,50.0,139,221,0,1,51,180.0
+"Durham, NC",Private,Computer Hardware & Software,0,0,Genesys,NC,30,1,0,1,1,0,data engineer,3,0,0.0,1000.0,78,147,0,1,5001,112.5
+"New York, NY",Private,"Department, Clothing, & Shoe Stores",0,0,Moda Operandi,NY,10,1,0,0,0,1,analyst,3,0,3.0,100.0,65,110,0,1,201,87.5
+"Indianapolis, IN",Private,Insurance Carriers,0,0,Liberty Mutual Insurance,IN,108,1,0,0,0,1,na,3,0,5.0,10000.0,37,66,0,0,10000,51.5
+"Clovis, CA",Private,Architectural & Engineering Services,0,0,QK,CA,48,0,0,0,0,1,na,0,0,3.0,10.0,38,64,0,0,51,51.0
+"Boston, MA",Private,Banks & Credit Unions,0,0,Santander,MA,164,1,0,0,0,1,na,0,1,5.0,10000.0,43,82,0,0,10000,62.5
+"Chicago, IL",Private,Enterprise Software & Network Solutions,0,0,"Emtec, Inc.",IL,25,1,0,0,0,0,na,0,0,2.0,100.0,52,81,0,0,501,66.5
+"Austin, TX",Private,Security Services,0,0,Praetorian,TX,10,1,0,1,0,0,data engineer,0,0,8.0,10.0,97,180,0,1,51,138.5
+"Boston, MA",Private,Consulting,0,0,PA Consulting,MA,77,0,0,1,0,1,data scientist,3,0,7.0,100.0,81,134,0,0,1001,107.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Agios Pharmaceuticals,MA,12,0,0,0,0,0,na,0,1,0.0,50.0,84,157,0,0,501,120.5
+"Rockville, MD",Private,Biotech & Pharmaceuticals,0,0,Advanced BioScience Laboratories,MD,59,0,0,0,0,0,na,0,0,0.0,25.0,49,113,0,0,201,81.0
+"Redlands, CA",Private,Computer Hardware & Software,0,0,Esri,CA,51,1,0,1,0,1,na,1,1,2.0,1000.0,52,85,0,0,1001,68.5
+"Westlake, OH",Public,Insurance Carriers,0,0,Assurant,OH,42,0,0,0,0,1,data scientist,3,0,0.0,5000.0,81,140,0,1,10000,110.5
+"Chicago, IL",Public,Real Estate,0,0,Equity Residential,IL,27,1,0,1,0,1,data scientist,3,1,1.0,2000.0,110,150,0,1,1001,130.0
+"Richland, WA",Government,Energy,0,0,PNNL,WA,55,0,0,0,0,0,data scientist,3,1,5.0,500.0,60,101,0,1,1001,80.5
+"Cedar Rapids, IA",Private,Lending,0,0,GreatAmerica Financial Services,IA,28,0,0,0,0,1,analyst,0,0,2.0,100.0,31,55,0,0,501,43.0
+"Philadelphia, PA",Private,Insurance Carriers,0,0,AmeriHealth Caritas,PA,37,0,0,0,0,1,analyst,3,1,3.0,5000.0,48,85,0,1,5001,66.5
+"San Francisco, CA",Private,Staffing & Outsourcing,0,0,Strategic Employment Partners,CA,14,1,0,0,1,0,data engineer,0,0,0.0,1.0,66,123,0,1,51,94.5
+"Seattle, WA",Government,Energy,0,0,PNNL,WA,55,0,0,0,0,0,data scientist,3,1,3.0,500.0,92,146,0,1,1001,119.0
+"Omaha, NE",Nonprofit,Health Care Services & Hospitals,1,0,Catholic Health Initiatives,NE,24,0,0,0,0,0,na,2,0,0.0,10000.0,21,29,0,0,10000,25.0
+"Nashville, TN",Public,Financial Transaction Processing,1,0,FLEETCOR,TN,20,0,0,0,0,1,analyst,0,0,0.0,2000.0,10,17,0,1,5001,13.5
+"Chicago, IL",Private,Insurance Carriers,0,0,Liberty Mutual Insurance,IL,108,1,0,0,0,0,director,3,1,0.0,10000.0,150,239,0,0,10000,194.5
+"San Antonio, TX",Nonprofit,Research & Development,0,0,Southwest Research Institute,TX,73,1,0,0,1,1,na,3,0,3.0,500.0,52,91,0,1,1001,71.5
+"Winston-Salem, NC",Private,Consumer Products Manufacturing,0,0,Reynolds American,NC,145,0,0,0,0,1,na,0,1,2.0,10000.0,47,101,0,1,5001,74.0
+"Huntsville, AL",Public,Aerospace & Defense,0,0,Raytheon,AL,98,0,0,0,0,1,analyst,0,0,2.0,10000.0,49,76,0,0,10000,62.5
+"Durham, NC",Nonprofit,Research & Development,0,0,RTI International,NC,62,0,0,0,0,0,na,3,0,10.0,500.0,43,88,0,1,1001,65.5
+"Blue Bell, PA",Others,Biotech & Pharmaceuticals,0,0,United BioSource,PA,17,0,0,0,0,1,analyst,2,0,2.0,100.0,52,93,0,1,1001,72.5
+"San Francisco, CA",Public,Computer Hardware & Software,0,0,Figure Eight,CA,12,1,0,0,1,1,data engineer,0,0,5.0,10.0,97,181,0,1,51,139.0
+"San Francisco, CA",Private,Internet,0,0,Tapjoy,CA,13,0,0,0,0,0,data engineer,2,0,3.0,10.0,100,173,0,1,201,136.5
+"New York, NY",Private,Travel Agencies,0,0,Fareportal,NY,18,1,0,1,0,0,data scientist,3,0,0.0,2000.0,53,96,0,0,1001,74.5
+"Winston-Salem, NC",Private,Consumer Products Manufacturing,0,0,Reynolds American,NC,145,0,0,0,0,1,na,0,1,1.0,10000.0,65,96,0,1,5001,80.5
+"Springfield, VA",Private,Aerospace & Defense,0,0,Royce Geospatial,VA,6,1,0,0,0,0,data scientist,0,0,10.0,10.0,75,127,0,0,51,101.0
+"Jersey City, NJ",Public,Investment Banking & Asset Management,0,0,Citi,NJ,208,0,0,0,0,1,data scientist,0,0,0.0,10000.0,94,139,0,0,10000,116.5
+"Carle Place, NY",Public,Wholesale,0,0,"1-800-FLOWERS.COM, Inc.",NY,44,1,0,0,0,1,data scientist,0,0,5.0,1000.0,55,98,0,0,1001,76.5
+"New York, NY",Subsidiary,TV Broadcast & Cable Networks,0,0,CBS Interactive,NY,28,1,0,1,0,0,data scientist,3,0,0.0,500.0,94,162,0,0,1001,128.0
+"Mountain View, CA",Subsidiary,Computer Hardware & Software,0,0,Samsung Research America,CA,32,1,0,1,1,0,data engineer,3,1,5.0,50.0,126,228,0,0,1001,177.0
+"Arlington, VA",Private,Aerospace & Defense,0,0,Systems & Technology Research,VA,10,1,0,1,0,1,data scientist,0,1,2.0,100.0,80,134,0,0,201,107.0
+"Springfield, VA",Public,Aerospace & Defense,0,0,Leidos,VA,51,1,0,0,1,0,data scientist,0,1,6.0,10000.0,76,127,0,0,10000,101.5
+"New York, NY",Subsidiary,Health Care Products Manufacturing,0,0,Beckman Coulter Diagnostics,NY,85,0,0,0,1,1,analyst,3,0,2.0,2000.0,54,92,0,0,10000,73.0
+"New York, NY",Public,Consulting,0,0,IHS Markit,NY,4,1,0,0,1,0,data scientist,2,1,1.0,2000.0,61,100,0,0,10000,80.5
+"New York, NY",Private,Lending,0,0,Biz2Credit Inc,NY,13,0,0,0,0,1,data scientist,3,0,2.0,100.0,63,111,0,0,201,87.0
+"Holyoke, MA",Private,Banks & Credit Unions,0,0,PeoplesBank,MA,135,0,0,0,0,1,data scientist,0,1,10.0,50.0,75,126,0,0,201,100.5
+"New York, NY",Public,Enterprise Software & Network Solutions,0,0,Capgemini,NY,53,1,0,1,0,1,data scientist,3,1,5.0,10000.0,110,184,0,0,10000,147.0
+"New York, NY",Private,Insurance Carriers,0,0,GNY Insurance Companies,NY,106,1,0,0,0,1,data engineer,3,1,3.0,100.0,76,145,0,0,201,110.5
+"New York, NY",Public,Enterprise Software & Network Solutions,0,0,Medidata Solutions,NY,21,1,0,0,1,0,data scientist,1,1,2.0,500.0,94,153,0,1,1001,123.5
+"New York, NY",Private,Health Care Services & Hospitals,0,0,AXION Healthcare Solutions,NY,40,0,0,0,0,1,analyst,2,0,0.0,10.0,47,85,0,0,1,66.0
+"Fort Belvoir, VA",Public,Aerospace & Defense,0,0,Mteq,VA,66,1,0,0,0,0,mle,2,0,0.0,100.0,62,112,0,0,501,87.0
+"Gaithersburg, MD",Public,Biotech & Pharmaceuticals,0,0,AstraZeneca,MD,107,1,0,0,0,1,data scientist,3,1,0.0,10000.0,107,173,0,1,10000,140.0
+"Silver Spring, MD",Private,IT Services,0,0,Brillient,MD,14,1,0,0,0,1,data scientist,0,1,3.0,25.0,64,108,0,0,201,86.0
+"Houston, TX",Private,IT Services,0,0,Trace3,TX,18,1,0,1,0,1,data engineer,3,0,5.0,1000.0,55,105,0,0,501,80.0
+"San Jose, CA",Public,Aerospace & Defense,0,0,Northrop Grumman,CA,81,1,0,0,0,0,data scientist,0,1,4.0,10000.0,135,211,0,1,10000,173.0
+"Gaithersburg, MD",Public,Biotech & Pharmaceuticals,0,0,AstraZeneca,MD,107,0,0,0,0,0,na,3,0,5.0,10000.0,63,127,0,1,10000,95.0
+"Bedford, MA",Nonprofit,Federal Agencies,0,0,MITRE,MA,62,1,0,0,0,1,data scientist,3,0,1.0,1000.0,50,89,0,0,5001,69.5
+"Aliso Viejo, CA",Public,Video Games,0,0,NCSOFT,CA,23,1,0,1,1,1,data engineer,3,0,3.0,10000.0,79,147,0,0,1001,113.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,GSK,MA,190,0,0,0,1,0,na,3,1,3.0,10000.0,62,119,0,0,10000,90.5
+"Dublin, CA",Public,Consulting,0,0,TriNet,CA,32,0,0,0,0,1,analyst,3,1,4.0,2000.0,90,157,0,0,1001,123.5
+"New York, NY",Private,Internet,0,0,Signpost,NY,10,0,0,1,0,0,analyst,0,0,4.0,10.0,32,62,0,1,201,47.0
+"San Jose, CA",Public,Computer Hardware & Software,0,0,Adobe,CA,38,1,0,0,0,1,na,2,1,0.0,5000.0,116,208,0,0,10000,162.0
+"Arvada, CO",Public,Biotech & Pharmaceuticals,0,0,Sartorius,CO,150,1,0,0,0,1,data scientist,0,0,5.0,1000.0,102,165,0,1,5001,133.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Novartis,MA,24,1,0,0,0,0,na,0,1,2.0,10000.0,80,133,0,1,10000,106.5
+"Worcester, MA",Public,Insurance Carriers,0,0,The Hanover Insurance Group,MA,168,0,0,0,0,0,analyst,0,0,0.0,5000.0,39,69,0,0,5001,54.0
+"Tampa, FL",Subsidiary,Enterprise Software & Network Solutions,0,0,Greenway Health,FL,43,0,0,0,0,1,analyst,3,0,2.0,100.0,27,48,0,0,1001,37.5
+"New York, NY",Private,Travel Agencies,0,0,Fareportal,NY,18,1,0,0,0,1,analyst,3,1,2.0,2000.0,36,71,0,0,1001,53.5
+"Hampton, VA",Nonprofit,Federal Agencies,0,0,MITRE,VA,62,0,0,0,0,0,na,3,1,5.0,1000.0,56,99,0,1,5001,77.5
+"Winston-Salem, NC",Private,Consumer Products Manufacturing,0,0,Reynolds American,NC,145,0,0,0,0,1,na,0,1,3.0,10000.0,80,155,0,1,5001,117.5
+"Mountain View, CA",Private,Computer Hardware & Software,0,0,Confluent,CA,6,1,0,0,0,1,data scientist,0,0,5.0,100.0,130,206,0,0,501,168.0
+"Plymouth Meeting, PA",Public,Biotech & Pharmaceuticals,0,0,IQVIA,PA,3,0,0,0,0,0,na,3,1,0.0,2000.0,86,137,0,1,10000,111.5
+"Boston, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,0,0,0,0,1,manager,0,1,4.0,10000.0,37,100,0,0,5001,68.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,GSK,MA,190,0,0,0,1,0,na,3,1,5.0,10000.0,58,111,0,1,10000,84.5
+"Nashville, TN",Public,Internet,0,0,Eventbrite,TN,14,1,0,1,1,0,data engineer,3,0,8.0,100.0,72,133,0,1,1001,102.5
+"Beavercreek, OH",Nonprofit,Federal Agencies,0,0,Riverside Research Institute,OH,53,1,0,0,0,0,na,0,1,0.0,50.0,61,126,0,0,501,93.5
+"Logan, UT",Private,Consumer Products Manufacturing,0,0,Icon Health and Fitness,UT,43,1,0,0,0,1,analyst,3,0,0.0,500.0,33,61,0,0,1001,47.0
+"Herndon, VA",Private,Enterprise Software & Network Solutions,0,0,Novetta,VA,8,1,0,0,0,0,analyst,3,0,5.0,100.0,69,119,0,1,501,94.0
+"Reston, VA",Private,Enterprise Software & Network Solutions,0,0,Novetta,VA,8,1,0,1,1,0,data engineer,3,0,3.0,100.0,67,127,0,1,501,97.0
+"Boston, MA",Private,Insurance Carriers,0,0,MassMutual,MA,169,0,0,1,1,1,na,0,0,5.0,10000.0,66,117,0,0,5001,91.5
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Novartis,MA,24,0,0,0,0,0,data scientist,0,0,0.0,10000.0,86,143,0,0,10000,114.5
+"San Francisco, CA",Private,Computer Hardware & Software,0,0,Demandbase,CA,14,0,0,0,0,0,analyst,3,0,3.0,100.0,90,153,0,1,201,121.5
+"Scottsdale, AZ",Private,IT Services,0,0,IntraEdge,AZ,18,1,0,1,1,0,data engineer,0,0,4.0,50.0,42,79,0,0,501,60.5
+"Chantilly, VA",Private,Aerospace & Defense,0,0,Peraton,VA,3,1,0,1,0,0,data engineer,0,0,8.0,1000.0,84,153,0,0,1001,118.5
+"Bloomington, IL",Private,Insurance Carriers,0,0,COUNTRY Financial,IL,95,1,0,1,0,1,data engineer,3,1,2.0,2000.0,44,73,0,0,1001,58.5
+"San Francisco, CA",Private,Internet,0,0,Tapjoy,CA,13,1,0,1,0,0,manager,2,0,0.0,10.0,40,87,0,0,201,63.5
+"Fremont, CA",Public,Computer Hardware & Software,0,0,Mentor Graphics,CA,39,1,0,0,0,1,data scientist,3,0,0.0,1000.0,72,142,0,0,5001,107.0
+"San Diego, CA",Private,Insurance Carriers,0,0,ICW Group,CA,48,0,0,0,0,0,data engineer,3,0,3.0,500.0,57,109,0,0,501,83.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Pfizer,MA,171,0,0,0,1,0,director,0,1,7.0,10000.0,136,208,0,0,10000,172.0
+"Seattle, WA",Government,Energy,0,0,PNNL,WA,55,0,0,0,0,0,data scientist,3,1,7.0,500.0,92,146,0,1,1001,119.0
+"Chicago, IL",Private,Consulting,0,0,"SPINS, LLC",IL,25,1,0,0,0,0,data engineer,0,0,0.0,50.0,65,126,0,0,201,95.5
+"Jersey City, NJ",Private,Brokerage Services,0,0,DTCC,NJ,47,1,0,0,0,1,analyst,0,0,1.0,1000.0,118,228,0,1,1001,173.0
+"Durham, NC",Nonprofit,Research & Development,0,0,RTI International,NC,62,0,0,0,0,0,na,3,0,0.0,500.0,43,88,0,1,1001,65.5
+"Coraopolis, PA",Public,Sporting Goods Stores,0,0,DICK'S Sporting Goods - Corporate,PA,72,1,0,0,0,0,data scientist,3,1,1.0,5000.0,61,109,0,0,10000,85.0
+"Gaithersburg, MD",Public,Biotech & Pharmaceuticals,0,0,AstraZeneca,MD,107,1,0,0,0,1,data scientist,3,1,0.0,10000.0,113,182,0,1,10000,147.5
+"Roanoke, VA",Nonprofit,Health Care Services & Hospitals,0,0,Carilion Clinic,VA,121,0,0,0,0,1,data engineer,0,1,6.0,1000.0,58,104,0,0,10000,81.0
+"Cambridge, MA",Subsidiary,Research & Development,0,0,Mitsubishi Electric Research Labs,MA,29,0,0,0,1,1,na,3,0,5.0,5.0,81,161,0,1,51,121.0
+"Cambridge, MA",Subsidiary,Research & Development,0,0,Mitsubishi Electric Research Labs,MA,29,0,0,0,0,0,na,3,0,0.0,5.0,115,220,0,1,51,167.5
+"Seattle, WA",Nonprofit,Social Assistance,0,0,DESC,WA,41,0,0,0,1,1,analyst,0,0,2.0,25.0,32,57,0,0,501,44.5
+"Glen Burnie, MD",Private,Health Care Services & Hospitals,0,0,Johns Hopkins Health Care,MD,131,0,0,0,0,0,analyst,3,1,7.0,500.0,79,136,0,1,1001,107.5
+"Philadelphia, PA",Private,Health Care Services & Hospitals,0,0,Community Behavioral Health,PA,26,0,0,0,0,1,analyst,0,0,4.0,500.0,50,89,0,1,201,69.5
+"Milpitas, CA",Public,Computer Hardware & Software,0,0,Western Digital,CA,50,1,0,1,1,0,na,2,0,2.0,10000.0,68,129,0,1,10000,98.5
+"Rockville, MD",Private,Biotech & Pharmaceuticals,0,0,Advanced BioScience Laboratories,MD,59,0,0,0,0,1,na,0,0,4.0,25.0,48,113,0,0,201,80.5
+"Watertown, MA",Private,Biotech & Pharmaceuticals,1,0,FORMA THERAPEUTICS,MA,12,0,0,0,0,1,na,0,0,5.0,10.0,27,47,0,0,51,37.0
+"Cambridge, MD",Public,Aerospace & Defense,0,0,Raytheon,MD,98,1,0,0,0,0,na,0,0,0.0,10000.0,74,124,0,0,10000,99.0
+"Cambridge, MA",Public,Biotech & Pharmaceuticals,0,0,Agios Pharmaceuticals,MA,12,0,0,0,0,1,manager,0,0,5.0,50.0,68,125,0,0,501,96.5
+"Boston, MA",Private,Insurance Carriers,0,0,Liberty Mutual Insurance,MA,108,0,0,0,0,0,director,3,1,2.0,10000.0,39,67,0,0,10000,53.0
+"Gaithersburg, MD",Public,Biotech & Pharmaceuticals,0,0,AstraZeneca,MD,107,0,0,0,0,0,na,3,0,3.0,10000.0,61,123,0,0,10000,92.0
+"Washington, DC",Private,Consulting,0,0,CompQsoft,DC,23,1,0,0,0,0,data scientist,0,1,2.0,10.0,72,121,0,0,51,96.5
+"Phoenix, AZ",Private,IT Services,0,0,Solugenix Corporation,AZ,51,1,0,0,0,1,data scientist,0,0,2.0,50.0,51,88,0,0,201,69.5
+"San Francisco, CA",Subsidiary,Consumer Products Manufacturing,0,0,SoftBank Robotics,CA,15,1,0,0,1,0,data scientist,0,1,3.0,25.0,79,127,0,0,201,103.0
+"McLean, VA",Nonprofit,Federal Agencies,0,0,MITRE,VA,62,1,0,1,0,1,data scientist,3,0,0.0,1000.0,81,132,1,0,5001,106.5
+"New York, NY",Public,Enterprise Software & Network Solutions,0,0,Medidata Solutions,NY,21,0,0,0,1,1,na,1,1,10.0,500.0,63,110,0,0,1001,86.5
+"Knoxville, TN",Private,Gas Stations,0,0,Pilot Flying J Travel Centers LLC,TN,62,1,0,0,0,0,data engineer,3,0,3.0,10000.0,69,127,0,1,10000,98.0
+"San Francisco, CA",Private,Internet,0,0,Fivestars,CA,9,1,0,0,1,1,data engineer,2,1,1.0,100.0,62,113,0,0,201,87.5
+"Plymouth Meeting, PA",Public,Biotech & Pharmaceuticals,0,0,IQVIA,PA,3,0,0,0,0,0,na,3,1,1.0,2000.0,86,137,0,1,10000,111.5
