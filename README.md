@@ -6,12 +6,12 @@ This project aims to predict salaries based on various features using regression
 ## Installation
 To run this project, you need to have Python 3 installed on your system. Additionally, the following Python libraries are required:
 
-argparse
-pandas
-matplotlib
-numpy
-scikit-learn
-joblib
+- argparse
+- pandas
+- matplotlib
+- numpy
+- scikit-learn
+- joblib
 
 You can install these libraries using the following command:
 pip install argparse pandas matplotlib numpy scikit-learn joblib
