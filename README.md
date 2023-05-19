@@ -1,4 +1,4 @@
-### Salary Prediction for Tech Positions from Glassdoor.com in the US Using Machine Learning Algorithms
+# Salary Prediction for Tech Positions from Glassdoor.com in the US Using Machine Learning Algorithms
 
 ## Description
 This project aims to predict salaries based on various features using regression analysis. It utilizes machine learning algorithms such as linear regression, LASSO regression, ridge regression, and decision tree regression. The dataset used for training and testing the models is a CSV file containing information about job listings and corresponding salaries.
